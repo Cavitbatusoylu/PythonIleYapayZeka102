@@ -155,8 +155,8 @@ class Blockchain:
 # Blockchain üretimi
 test_chain = Blockchain()
 
-# Hamit'ten Mehmet'e 10 birim gönderme ekle
-test_chain.add_transaction("Hamit","Mehmet",10)
+# Cavit'ten Mehmet'e 10 birim gönderme ekle
+test_chain.add_transaction("Cavit","Mehmet",10)
 
 # Ahmet'ten Mustafa'ya 15 birim gönderme ekle
 test_chain.add_transaction("Ahmet","Mustafa",15)

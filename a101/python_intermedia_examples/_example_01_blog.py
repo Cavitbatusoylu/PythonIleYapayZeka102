@@ -611,7 +611,7 @@ def kelime_gecen_bloglar_grafik(blog_icerikleri, aranan_kelime):
         print(f"Başlık: {blog['baslik']}, Yazar: {blog['yazar']}")
 
     for blog in kelime_gecen_bloglar:
-        print(f"goruntulenme Sayısı: {blog["goruntulenme"]}")
+        print(f"goruntulenme Sayısı: {blog['goruntulenme']}")
 
     # Verileri hazırlama
     blog_basliklari = [blog["baslik"] for blog in kelime_gecen_bloglar]  # Blog başlıkları

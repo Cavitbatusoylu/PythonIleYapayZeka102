@@ -3,7 +3,7 @@ https://www.w3schools.com/python/
 
 
 -- GİTHUB
-https://github.com/hamitmizrak/python_techcareer_2025_101_1
+https://github.com/Cavitbatusoylu/python_techcareer_2025_101_1
 
 
 -- KURULUMU VİDEOSU

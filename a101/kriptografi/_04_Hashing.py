@@ -51,7 +51,7 @@ RESET=Style.RESET_ALL # Renk sıfırlamak
 
 ########################################################################
 # Hashing (Örnek: e-posta adresi)
-data = "hamitmizrak@gmail.com:1234567".encode() # string veriyi byte formanıta çevir
+data = "Cavitbatusoylu@gmail.com:1234567".encode() # string veriyi byte formanıta çevir
 
 
 ########################################################################

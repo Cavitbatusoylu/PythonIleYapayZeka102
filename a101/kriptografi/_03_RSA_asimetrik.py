@@ -75,7 +75,7 @@ print(f"{RED}Özel Anahtar (RSA): ", private_key.decode()+"\n\n")
 
 
 # Şifrelenecek veriyi tamamladık (Örnek: e-posta adresi)
-data = "hamitmizrak@gmail.com:1234567".encode() # string veriyi byte formanıta çevir
+data = "Cavitbatusoylu@gmail.com:1234567".encode() # string veriyi byte formanıta çevir
 
 #
 rsa_public_key =RSA.import_key(public_key)

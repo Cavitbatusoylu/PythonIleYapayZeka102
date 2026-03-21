@@ -1,38 +1,38 @@
-# Hamit Mızrak
+# Cavit Batu Soylu
 
-## 🔍 Hamit Mızrak Repo İstatistikleri
+## 🔍 Cavit Batu Soylu Repo İstatistikleri
 
-![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=hamitmizrak.https://github.com/hamitmizrak/Ecodation_2025_FullStack_SpringReact_2)
-![Stars](https://img.shields.io/github/stars/hamitmizrak/https://github.com/hamitmizrak/Ecodation_2025_FullStack_SpringReact_2?style=social)
-![Forks](https://img.shields.io/github/forks/hamitmizrak/https://github.com/hamitmizrak/Ecodation_2025_FullStack_SpringReact_2?style=social)
-![Son Commit](https://img.shields.io/github/last-commit/hamitmizrak/https://github.com/hamitmizrak/Ecodation_2025_FullStack_SpringReact_2)
-![License](https://img.shields.io/github/license/hamitmizrak/https://github.com/hamitmizrak/Ecodation_2025_FullStack_SpringReact_2)
+![Ziyaretçi Sayısı](https://visitor-badge.laobi.icu/badge?page_id=Cavitbatusoylu.https://github.com/Cavitbatusoylu/Ecodation_2025_FullStack_SpringReact_2)
+![Stars](https://img.shields.io/github/stars/Cavitbatusoylu/https://github.com/Cavitbatusoylu/Ecodation_2025_FullStack_SpringReact_2?style=social)
+![Forks](https://img.shields.io/github/forks/Cavitbatusoylu/https://github.com/Cavitbatusoylu/Ecodation_2025_FullStack_SpringReact_2?style=social)
+![Son Commit](https://img.shields.io/github/last-commit/Cavitbatusoylu/https://github.com/Cavitbatusoylu/Ecodation_2025_FullStack_SpringReact_2)
+![License](https://img.shields.io/github/license/Cavitbatusoylu/https://github.com/Cavitbatusoylu/Ecodation_2025_FullStack_SpringReact_2)
 
-## 🏆 Hamit Mızrak Profil Ödülleri
+## 🏆 Cavit Batu Soylu Profil Ödülleri
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=hamitmizrak&theme=gruvbox)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Cavitbatusoylu&theme=gruvbox)
 
-## 📊 Hamit Mızrak GitHub Kullanıcı İstatistikleri
+## 📊 Cavit Batu Soylu GitHub Kullanıcı İstatistikleri
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamitmizrak&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cavitbatusoylu&show_icons=true&theme=tokyonight)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamitmizrak&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cavitbatusoylu&layout=compact)
 <br>
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=hamitmizrak&repo=https://github.com/hamitmizrak/Ecodation_2025_FullStack_SpringReact_2)](https://github.com/hamitmizrak/https://github.com/hamitmizrak/Ecodation_2025_FullStack_SpringReact_2)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Cavitbatusoylu&repo=https://github.com/Cavitbatusoylu/Ecodation_2025_FullStack_SpringReact_2)](https://github.com/Cavitbatusoylu/https://github.com/Cavitbatusoylu/Ecodation_2025_FullStack_SpringReact_2)
 
-## 📈 Hamit Mızrak Aktivite Grafiği
+## 📈 Cavit Batu Soylu Aktivite Grafiği
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamitmizrak&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cavitbatusoylu&theme=react-dark)
 
-## ⏱️ Hamit Mızrak Kod Yazma Zamanı (WakaTime)
+## ⏱️ Cavit Batu Soylu Kod Yazma Zamanı (WakaTime)
 
 <!-- WakaTime hesabın varsa -->
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=hamitmizrak)](https://wakatime.com/@hamitmizrak)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Cavitbatusoylu)](https://wakatime.com/@Cavitbatusoylu)
 
 
 # Python
-[GitHub Address]( https://github.com/hamitmizrak/python_techcareer_2025_101_1.git )
+[GitHub Address]( https://github.com/Cavitbatusoylu/python_techcareer_2025_101_1.git )
 ---
 
 ## Git 
@@ -40,7 +40,7 @@
 git init 
 git add .
 git commit -m "message"
-git clone  https://github.com/hamitmizrak/python_techcareer_2025_101_1.git 
+git clone  https://github.com/Cavitbatusoylu/python_techcareer_2025_101_1.git 
 ```
 
 ## Python Common Rules

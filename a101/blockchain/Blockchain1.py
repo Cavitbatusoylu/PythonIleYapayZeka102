@@ -94,7 +94,7 @@ class Blockchain:
 # Blockchain Kullanımı
 # Yeni bir blockchain oluştur
 test_chain = Blockchain()
-test_chain.add_transaction("Hamit", "Mehmet", 10)  # Alice'den Bob'a 10 birim gönderme işlemi ekle
+test_chain.add_transaction("Cavit", "Mehmet", 10)  # Alice'den Bob'a 10 birim gönderme işlemi ekle
 test_chain.add_transaction("Mehmet", "Ali", 5)  # Bob'dan Charlie'ye 5 birim gönderme işlemi ekle
 
 test_chain.mine_block()  # İşlemleri içeren yeni bir blok madenciliği yap ve ekle

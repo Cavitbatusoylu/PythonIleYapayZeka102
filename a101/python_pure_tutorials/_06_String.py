@@ -84,7 +84,7 @@ print(metin8[3:])     # hon
 
 print("#######String Formatlama###################################")
 # 9-) String Formatlama: Dinamik değerler eklemek için format() veya f-string kullanılır.
-name9 = "Hamit"
+name9 = "Cavit"
 surname9 = 25
 print(f"Merhaba, benim adım {name9} soyadım {surname9}")
 

@@ -49,7 +49,7 @@ print("""\n\r\tdocstring
     """)
 
 # Değişken yazdırma
-isim = "Hamit"
+isim = "Cavit"
 soyisim = "Mızrak"
 print("Adım:", isim," Soyadım: ", soyisim)    # 1.YOL
 print("Adım: %s, Soyadım:%s"%(isim,soyisim))  # 2.YOL  %s:string %d:decimal %f:virgüllü

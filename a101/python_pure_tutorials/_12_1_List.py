@@ -73,8 +73,8 @@ print(23 not in list_data)
 # İç İçe Listeler (Nested Lists):
 print("~~~ nested_list  ~~~")
 nested_list = [[1, 2, 3], [4, 5, 6]]
-print(f"{"nested list",nested_list[0][1]}")
-print(f"{"nested list",nested_list[1][1]}")
+print(f"nested list: {nested_list[0][1]}")
+print(f"nested list: {nested_list[1][1]}")
 
 
 ##### reverse ########################################################################

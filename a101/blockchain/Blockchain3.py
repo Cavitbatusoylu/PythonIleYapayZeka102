@@ -128,8 +128,8 @@ class Blockchain:
 # Blockchain üretimi
 my_blockchain = Blockchain()
 
-# Hamit'ten Mehmet'e 10 birim gönderme ekle
-my_blockchain.add_transaction("Hamit", "Mehmet", 10)
+# Cavit'ten Mehmet'e 10 birim gönderme ekle
+my_blockchain.add_transaction("Cavit", "Mehmet", 10)
 
 # Ahmet'ten Mustafa'ya 15 birim gönderme ekle
 my_blockchain.add_transaction("Mehmet", "Mustafa", 5)
@@ -144,7 +144,7 @@ my_blockchain.add_transaction("Mustafa", "Fatih", 2)
 # Blockchainleri ekrana yazdır
 my_blockchain.print_chain()
 
-print(Fore.BLUE + "Hamit'in bakiyesi:", my_blockchain.get_balance("Hamit"), Style.RESET_ALL)
+print(Fore.BLUE + "Cavit'in bakiyesi:", my_blockchain.get_balance("Cavit"), Style.RESET_ALL)
 print(Fore.BLUE + "Mehmet'in bakiyesi:", my_blockchain.get_balance("Mehmet"), Style.RESET_ALL)
 print(Fore.BLUE + "Mustafa'in bakiyesi:", my_blockchain.get_balance("Mustafa"), Style.RESET_ALL)
 print(Fore.BLUE + "Fatih'in bakiyesi:", my_blockchain.get_balance("Fatih"), Style.RESET_ALL)

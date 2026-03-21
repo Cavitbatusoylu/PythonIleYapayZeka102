@@ -70,7 +70,7 @@ iv= os.urandom(8)   # DES için Initialization Vector
 
 
 # Şifrelencek veriyi tamamladık (Örnek: e-posta adresi)
-data = "hamitmizrak@gmail.com:1234567".encode() # string veriyi byte formanıta çevir
+data = "Cavitbatusoylu@gmail.com:1234567".encode() # string veriyi byte formanıta çevir
 
 # AES şifreleme (CBC Modu)
 cipher = DES.new(key, DES.MODE_CBC,iv) # DES nesnesini oluştur (CBC modu ve IV)

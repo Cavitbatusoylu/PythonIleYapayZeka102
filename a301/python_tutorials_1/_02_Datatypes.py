@@ -41,7 +41,7 @@ my_tuple1=(1,2,3,4,5) # Tuplle(Demet)
 
 # Dictionary(Sözlük)
 my_dictionary1 ={
-    "name":"Hamit",
+    "name":"Cavit",
     "surname":"Mızrak",
     "is_login":True
 }

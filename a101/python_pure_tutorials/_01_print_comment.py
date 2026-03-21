@@ -69,7 +69,7 @@ yeni\nsatır
 # VARIABLE
 # =============================================
 # Değişken isimlendirmelerde
-name = "Hamit"
+name = "Cavit"
 surname = "Mızrak"
 # print("Adım: ", name," \nSoyisim: ",surname)
 

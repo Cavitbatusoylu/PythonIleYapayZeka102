@@ -71,7 +71,7 @@ key = os.urandom(32) # 256-bit AES anahtarı güvenli ve rastgele için
 iv= os.urandom(16)   # AES için Initialization Vector
 
 # Şifrelencek veriyi tamamladık (Örnek: e-posta adresi)
-data = "hamitmizrak@gmail.com:123456".encode() # string veriyi byte formanıta çevir
+data = "Cavitbatusoylu@gmail.com:123456".encode() # string veriyi byte formanıta çevir
 
 # AES şifreleme (CBC Modu)
 cipher = AES.new(key, AES.MODE_CBC,iv) # AES nesnesini oluştur (CBC modu ve IV)

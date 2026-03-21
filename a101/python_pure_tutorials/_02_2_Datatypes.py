@@ -36,7 +36,7 @@ print(type(my_set)) #
 ##### DICTIONARY (Sözlük)#######################################################
 # (Type == > dict)
 person = {
-    "name": "Hamit",
+    "name": "Cavit",
     "surname": "Mızrak",
     "is_login": True,
     "hes_code":1456621545
