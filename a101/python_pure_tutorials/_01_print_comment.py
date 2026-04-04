@@ -70,7 +70,7 @@ yeni\nsatır
 # =============================================
 # Değişken isimlendirmelerde
 name = "Cavit"
-surname = "Mızrak"
+surname = "Soylu"
 # print("Adım: ", name," \nSoyisim: ",surname)
 
 # 1.YOL

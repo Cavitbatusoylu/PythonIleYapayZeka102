@@ -1,0 +1,42 @@
+# Project
+[GitHub]( https://github.com/Cavitbatusoylu/python_techcareer_2026_201_1.git)
+---
+
+
+## Git Clone
+```sh 
+git clone https://github.com/Cavitbatusoylu/python_techcareer_2026_201_1.git
+```
+---
+
+
+
+## 1- Shelling Programming SH (Dosya ve Dizin Olmadan)
+```sh 
+chmod +x generate_requirements.sh
+./generate_requirements.sh
+
+quantity,revenue,unit_price
+miktar  ,gelir  ,birim fiyat
+
+```
+---
+
+
+
+## 2- Shelling Programming SH (Dosya ve Dizin Olmadan)
+```sh 
+chmod +x generate_file_requirements.sh
+./generate_file_requirements.sh
+```
+---
+
+
+
+## 3- requirements.txt 
+```sh
+./main.py
+```
+---
+
+

@@ -37,7 +37,7 @@ print(type(my_set)) #
 # (Type == > dict)
 person = {
     "name": "Cavit",
-    "surname": "Mızrak",
+    "surname": "Soylu",
     "is_login": True,
     "hes_code":1456621545
 }
