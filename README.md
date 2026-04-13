@@ -1,11 +1,11 @@
-# Project
-[GitHub]( https://github.com/Cavitbatusoylu/python_techcareer_2026_201_1.git)
+﻿# Project
+[GitHub]( https://github.com/cavitbatusoylu/python_techcareer_2026_201_1.git)
 ---
 
 
 ## Git Clone
 ```sh 
-git clone https://github.com/Cavitbatusoylu/PythonIleYapayZeka102.git
+git clone https://github.com/cavitbatusoylu/python_techcareer_2026_201_1.git
 ```
 ---
 
@@ -38,5 +38,6 @@ chmod +x generate_file_requirements.sh
 ./main.py
 ```
 ---
+
 
 
