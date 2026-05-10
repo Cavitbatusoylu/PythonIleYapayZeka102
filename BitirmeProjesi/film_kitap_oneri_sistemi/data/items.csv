@@ -1,0 +1,12 @@
+item_id,title,category,type,year
+1,Inception,Bilim Kurgu,Film,2010
+2,The Matrix,Bilim Kurgu,Film,1999
+3,Interstellar,Bilim Kurgu,Film,2014
+4,The Dark Knight,Aksiyon,Film,2008
+5,Yüzüklerin Efendisi,Fantastik,Film,2001
+6,Sefiller,Klasik,Kitap,1862
+7,1984,Distopya,Kitap,1949
+8,Suç ve Ceza,Klasik,Kitap,1866
+9,Küçük Prens,Masal,Kitap,1943
+10,Simyacı,Felsefi,Kitap,1988
+11,Test Film,Test Kategori,Film,2026
