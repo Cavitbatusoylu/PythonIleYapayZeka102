@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Project Banner" width="100%">
-</p>
 
 # 🎬📚 Film & Kitap Tavsiye Sistemi (Recommendation Engine)
 
