@@ -1,9 +1,5 @@
 # 🚀 Python ile Yapay Zeka 102 & Bitirme Projesi
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cavitbatusoylu/PythonIleYapayZeka102/main/python_ile_yapay_zeka_102/pictures/project.png" alt="Project Banner" width="600">
-</p>
-
 ---
 
 ## ✨ Proje Hakkında
